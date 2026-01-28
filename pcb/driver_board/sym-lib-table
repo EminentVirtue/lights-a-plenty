@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "PoE")(type "KiCad")(uri "C:/Users/Andrew/Documents/Components_KiCad/LM5070MTC-50.kicad_sym")(options "")(descr ""))
+  (lib (name "Wifi")(type "KiCad")(uri "C:/Users/Andrew/Documents/Components_KiCad/2026-01-25_03-03-44.kicad_sym")(options "")(descr ""))
+  (lib (name "Wifi_Microchip")(type "KiCad")(uri "C:/Users/Andrew/Documents/Components_KiCad/2026-01-25_03-20-05.kicad_sym")(options "")(descr ""))
+)

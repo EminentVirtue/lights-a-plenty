@@ -430,7 +430,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "same_local_global_label": "warning",
       "similar_label_and_power": "warning",
@@ -578,7 +578,7 @@
       "intersheets_ref_own_page": false,
       "intersheets_ref_prefix": "",
       "intersheets_ref_short": false,
-      "intersheets_ref_show": false,
+      "intersheets_ref_show": true,
       "intersheets_ref_suffix": "",
       "junction_size_choice": 3,
       "label_size_ratio": 0.375,
@@ -612,6 +612,14 @@
     [
       "b10301db-0ff9-451f-a7a5-a34fefe4ad54",
       "Root"
+    ],
+    [
+      "5eb476fa-14ad-4b05-9899-a98299ed4400",
+      "PoE"
+    ],
+    [
+      "3bc52dec-00c0-40f1-b067-0f86c7f00ce2",
+      "WiFi Connectivity"
     ]
   ],
   "text_variables": {}
