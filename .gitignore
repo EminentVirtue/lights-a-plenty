@@ -5,3 +5,4 @@ pcb/driver_board/~driver_board.kicad_sch.lck
 pcb/driver_board/driver_board.kicad_prl
 pcb/driver_board/*-bak
 pcb/driver_board/*-cache
+pcb/driver_board/_autosave*
